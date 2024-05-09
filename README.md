@@ -1,6 +1,6 @@
 <html>
   <head>
-    <body style="background-color:DarkRed;">
+    <body style="background-color:GhostWhite;">
       <h1>My Portfolio</h1>
       <p><b>Jackson D. Poyner</b></p>
       <p><img src="Git.jpg" style="width:200px;height:250px;"></p>
@@ -17,5 +17,6 @@
       <p>This project is made to demonstrate my understanding of how I can make an object oriented program and create a GUI for it.</p>
       <p><a href="https://github.com/JPoyner316/Tower-of-Hanoi-Java-Program">Link</a> to a Tower of hanoi Java Project.</p>
       <p>This project is designed to show my understanding of algorithm analysis and implementation.</p>
+    </body>
   </head>
 </html>
