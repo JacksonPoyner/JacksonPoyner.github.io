@@ -10,12 +10,12 @@
       <p><a href="https://jpoyner316.github.io/">Link</a> to a big data analysis project.</p>
       <p>This project is designed to demonstrate how using Microsoft Excel I can convert big data sets into simpler information.</p>
       <p><a href="https://github.com/JPoyner316/HR-Portal-Java-Program">Link</a> to a HrPortal Java Project.</p>
-      <p>This project demonstrates my understanding of interfaces and how I can design a portal for a buisness through object oriented programming.</p>
+      <p>This project demonstrates my understanding of interfaces and how I can design a portal for a business through object-oriented programming.</p>
       <p><a href="https://github.com/JPoyner316/HuffmanTree-Java-Program">Link</a> to a HuffmanTree Java Project.</p>
-      <p>This project demonstrates my understanding on binary search trees and my ability to implement them into Java code.</p>
+      <p>This project demonstrates my understanding of binary search trees and my ability to implement them into Java code.</p>
       <p><a href="https://github.com/JPoyner316/ManVsBearGUI-Java-Program">Link</a> to a Combat Game Java Project.</p>
-      <p>This project is made to demonstrate my understanding of how I can make an object oriented program and create a GUI for it.</p>
-      <p><a href="https://github.com/JPoyner316/Tower-of-Hanoi-Java-Program">Link</a> to a Tower of hanoi Java Project.</p>
+      <p>This project is made to demonstrate my understanding of how I can make an object-oriented program and create a GUI for it.</p>
+      <p><a href="https://github.com/JPoyner316/Tower-of-Hanoi-Java-Program">Link</a> to a Tower of Hanoi Java Project.</p>
       <p>This project is designed to show my understanding of algorithm analysis and implementation.</p>
     </body>
   </head>
