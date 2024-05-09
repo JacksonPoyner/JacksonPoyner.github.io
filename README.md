@@ -1,9 +1,9 @@
 <html>
   <head>
-    <body style="background-color:powderblue;">
+    <body style="background-color:DarkRed;">
       <h1>My Portfolio</h1>
       <p><b>Jackson D. Poyner</b></p>
-      <p></p><img src="Git.jpg" style="width:200px;height:250px;"></p>
+      <p><img src="Git.jpg" style="width:200px;height:250px;"></p>
       <p>This is a page where you can see all of my projects and personal milestones.</p>
       <h2>Github Links</h2>
       <h3>All programming projects come with a folder that can be dropped into an IDE to see the running program.</h3>
